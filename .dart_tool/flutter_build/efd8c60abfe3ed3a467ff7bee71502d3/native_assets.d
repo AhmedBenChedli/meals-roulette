@@ -1,0 +1,1 @@
+ C:\\Users\\bench\\Repo\\Perso\\meal_roulette\\meal_roulette\\.dart_tool\\flutter_build\\efd8c60abfe3ed3a467ff7bee71502d3\\native_assets.yaml: 

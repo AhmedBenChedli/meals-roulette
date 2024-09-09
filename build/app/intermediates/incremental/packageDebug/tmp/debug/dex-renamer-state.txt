@@ -1,0 +1,4 @@
+#Mon Sep 09 11:05:34 CEST 2024
+base.0=C\:\\Users\\bench\\Repo\\Perso\\meal_roulette\\meal_roulette\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
